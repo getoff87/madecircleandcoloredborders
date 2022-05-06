@@ -1,0 +1,23 @@
+body {
+  background-color: blue;
+}
+.circle {
+  background-color: orange;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  border: solid green 10px;
+}
+.about-me {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border: solid black 10px;
+  border-radius: 25px;
+}
+section {
+  background-color: purple;
+  width: 100px;
+  height: 100px;
+}
